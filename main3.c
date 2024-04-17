@@ -154,5 +154,5 @@ int main() {
 //3333333333333333333333333333333333333333333333333333333333333333333333333333333333
 /*
 In berif, normal if-else statements control the flow of execution at runtime based on runtime conditions,
-while conditional compilation directives control the inclusion or exclusion of code sections at compile time based on compile-time conditions.
+while preprocessor directives control the inclusion or exclusion of code sections at compile time based on compile-time conditions.
 */
